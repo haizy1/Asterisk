@@ -14,14 +14,17 @@ In this [PDF](project.pdf) , you will find the complete Hull project. Below is a
 **1. Installation et configuration du serveur Asterisk** 
   - a. Installation d’Asterisk <br>
   - b. Configuration d’Asterisk  <br>
+
 **2. Configuration de la VoIP** 
   - a. Configuration des trunks SIP  <br>
   - b. Installation et configuration des softphone (ZOIPER) <br> 
   - c. Mise en place des numéros de téléphone(extension)  <br>
   - d. Configuration des règles de routage  <br>
+
 **3. Test et Validation de la plateforme VOIP** 
   - a. Tests fonctionnels   <br>
   - b. Vérification de la qualité des appels <br>
+
 **4. Mise en œuvre des attaques contre le réseau VoIP** 
   - a. Localisation des serveurs VoIP  <br>
   - b. Arp poisoning VOIP  <br>
@@ -30,6 +33,7 @@ In this [PDF](project.pdf) , you will find the complete Hull project. Below is a
   - e. Attaque sur l’authentification SIP  <br>
   - f. Capture de l’authentification SIP en utilisant Sipdum <br> 
      - i. Crack de la réponse d’authentification SIP  <br>
+
 **5. Mise en œuvre des solutions de sécurité** 
   - a. VOIP Hardening : Implémentation des bonnes pratiques <br> 
   - b. Mise en place des IDS(snort)  <br>
