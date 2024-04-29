@@ -6,6 +6,9 @@ Asterisk est une solution de téléphonie open source très populaire qui permet
 
 in out project  we used Issabel For the implementation of Asterisk<br>
 **IssabelPBX is an opensource GUI (graphical user interface) that controls and manages Asterisk (PBX).**
+<p align="center">
+  <img width="250" height="250" src="issabel.png">
+</p>
 ## Objectif 
 La mise en place d’une solution de VoIP sécurisée basée sur des outils open source(**issabel**), précisément le serveur Asterisk et le softphone Zoiper. Les entreprises, bénéficiant d’une solution, une plateforme de VoIP assez flexible, peu couteuse, et protégée contre les attaques de sécurité de l’intérieur du réseau comme de l’extérieur aussi.
 ## Realisation 
